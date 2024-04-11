@@ -6,3 +6,5 @@
 *Un "repository" è uno spazio di archiviazione digitale dove viene conservato e gestito il codice sorgente di un progetto software.*
 # Log
 *Un "log" è un registro che tiene traccia di eventi, azioni o dati, solitamente in ordine cronologico, per scopi di monitoraggio, registrazione o analisi. In informatica, il termine "log" spesso si riferisce ai file di registro che registrano le attività di un sistema, come errori, avvisi o azioni eseguite.*
+# VirtualDom
+*Il "Virtual DOM" è una rappresentazione virtuale della struttura di un documento HTML utilizzata da alcune librerie JavaScript, come React, per ottimizzare la manipolazione e l'aggiornamento degli elementi del DOM in risposta ai cambiamenti dei dati dell'applicazione.*
