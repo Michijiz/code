@@ -4,3 +4,4 @@
 *Git è un sistema di controllo delle versioni che traccia le modifiche ai file nel tempo, consentendo a più persone di collaborare su progetti software e tenere traccia delle variazioni senza sovrascrivere il lavoro degli altri.* 
 # Branch
 *Un "branch" è una copia parallela di un progetto di codice, utilizzata per sviluppare nuove funzionalità o correggere errori senza influire sul codice principale.*
+# VirtualDom 
