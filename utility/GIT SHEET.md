@@ -44,3 +44,9 @@
    
 ### git checkout -b "nomedocumento"
  `per creare un nuovo branch`
+
+ ### git branch -d 
+ `per eliminare una branch già mergiata`
+
+ ### git branch -D
+ `per eliminare una branch ancora non mergiata`
