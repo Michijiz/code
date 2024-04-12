@@ -1,0 +1,2 @@
+# Virtual Dom
+*Il Virtual DOM è una rappresentazione virtuale della struttura di un documento HTML in un'applicazione web. È utilizzato per ottimizzare le prestazioni, consentendo agli sviluppatori di aggiornare solo le parti necessarie dell'interfaccia utente senza dover ricaricare l'intera pagina.*
