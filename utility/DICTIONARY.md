@@ -4,3 +4,5 @@
 *Git è un sistema di controllo delle versioni che traccia le modifiche ai file nel tempo, consentendo a più persone di collaborare su progetti software e tenere traccia delle variazioni senza sovrascrivere il lavoro degli altri.* 
 # Branch
 *Un "branch" è una copia parallela di un progetto di codice, utilizzata per sviluppare nuove funzionalità o correggere errori senza influire sul codice principale.*
+# Virtual Dom
+*Il Virtual DOM è una rappresentazione virtuale della struttura di un documento HTML in un'applicazione web. È utilizzato per ottimizzare le prestazioni, consentendo agli sviluppatori di aggiornare solo le parti necessarie dell'interfaccia utente senza dover ricaricare l'intera pagina.*
