@@ -1,30 +1,46 @@
-git init: Inizializza un nuovo repository Git nella directory corrente.
+### git init 
 
-git clone [URL]: Clona un repository Git esistente dalla specificata URL.
+`Inizializza un nuovo repository Git nella directory corrente. `
 
-git add [file]: Aggiunge uno o più file alla zona di staging per essere preparati per il commit.
+### git clone [URL]
+`Clona un repository Git esistente dalla specificata URL.`
 
-git remove [file]: rimuove il file
+### git add [file]
+ `Aggiunge uno o più file alla zona di staging per essere preparati per il commit.`
 
-git commit -m "[messaggio]": Crea un nuovo commit contenente i cambiamenti nella zona di staging, con un messaggio descrittivo.
+### git remove [file]
+ `rimuove il file`
 
-git status: Mostra lo stato corrente del repository, inclusi i file modificati, quelli nella zona di staging, ecc.
+### git commit -m "[messaggio]"
+ `Crea un nuovo commit contenente i cambiamenti nella zona di staging, con un messaggio descrittivo.`
 
-git push: Invia i tuoi commit locali al repository remoto.
+### git status
+ `Mostra lo stato corrente del repository, inclusi i file modificati, quelli nella zona di staging, ecc.`
 
-git pull: Recupera le modifiche dal repository remoto e le unisce con il tuo repository locale.
+### git push
+ `Invia i tuoi commit locali al repository remoto.`
 
-git branch: Mostra un elenco delle branch presenti nel repository.
+### git pull
+`Recupera le modifiche dal repository remoto e le unisce con il tuo repository locale.`
 
-git checkout [nome_branch]: Cambia la branch corrente del repository.
+### git branch
+ `Mostra un elenco delle branch presenti nel repository.`
 
-git merge [nome_branch]: Unisce i cambiamenti dalla branch specificata nella branch corrente.
+### git checkout [nome_branch]
+ `Cambia la branch corrente del repository.`
 
-git fetch: Recupera tutti i dati dal repository remoto senza unire alcuna modifica con il tuo lavoro locale.
+### git merge [nome_branch]
+ `Unisce i cambiamenti dalla branch specificata nella branch corrente.`
 
-git log: Visualizza la cronologia dei commit del repository.
+### git fetch
+ `Recupera tutti i dati dal repository remoto senza unire alcuna modifica con il tuo lavoro locale.`
 
-  git config --global user.name "Your Name"
-     git config --global user.email "your.email@example.com" configura nome utente e email
+### git log
+ `Visualizza la cronologia dei commit del repository.`
+
+  ### git config --global user.name "Your Name"
+  ### git config --global user.email "your.email@example.com" 
+  `configura nome utente e email`
    
-git checkout -b "nomedocumento": per creare un nuovo branch
+### git checkout -b "nomedocumento"
+ `per creare un nuovo branch`
