@@ -52,3 +52,6 @@
  `per eliminare una branch ancora non mergiata`
 ### git origin [branch] -f
 `forza il push sovrascrivendo i file da locale a remoto`
+
+### git diff [file]
+`confronta le differenze del file in due diversi momenti` 
