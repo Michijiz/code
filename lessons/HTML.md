@@ -1,6 +1,6 @@
 # HTML
- acronimo di HyperText Markup Language, è il linguaggio di markup standard utilizzato per creare e strutturare le pagine web. È uno dei fondamenti del World Wide Web ed è essenziale per la creazione di siti web e applicazioni web. Ti spiegherò gli elementi chiave di HTML in modo esaustivo:
-
+ acronimo di HyperText Markup Language, è il linguaggio di markup standard utilizzato per creare e strutturare le pagine web. È uno dei fondamenti del World Wide Web ed è essenziale per la creazione di siti web e applicazioni web. 
+ 
 1. **Elementi di base**: In HTML, i documenti sono costituiti da elementi, che sono rappresentati da tag. Un tag HTML è costituito da una coppia di parentesi angolari "<>" che contiene il nome dell'elemento. Ad esempio, `<p>` è il tag per un paragrafo.
 
 2. **Struttura di base**: Ogni documento HTML ha una struttura di base che include due parti principali:
