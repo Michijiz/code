@@ -33,3 +33,47 @@
 8. **Commenti HTML**: È possibile aggiungere commenti nel codice HTML utilizzando `<!-- Il tuo commento qui -->`. I commenti non vengono visualizzati nel browser e sono utili per annotare o disattivare temporaneamente parti di codice.
 
 Questi sono solo alcuni dei concetti fondamentali di HTML. Utilizzando questi elementi, puoi creare pagine web complesse e interattive per una vasta gamma di scopi, dall'informazione alla comunicazione e al commercio elettronico.
+
+# HTML SHEET
+Ecco un elenco di alcuni marcatori HTML comuni insieme a una breve descrizione di ciascuno:
+
+1. `<html>`: Delimita l'inizio e la fine del documento HTML.
+
+2. `<head>`: Contiene informazioni di intestazione come il titolo della pagina, i collegamenti ai fogli di stile e i metadati.
+
+3. `<title>`: Definisce il titolo della pagina visualizzato nella barra del titolo del browser.
+
+4. `<body>`: Contiene il contenuto visibile della pagina web, come testo, immagini e link.
+
+5. `<h1>` - `<h6>`: Definisce i livelli di intestazione, dal più grande (h1) al più piccolo (h6).
+
+6. `<p>`: Definisce un paragrafo di testo.
+
+7. `<a>`: Crea un collegamento ipertestuale a un'altra pagina o risorsa.
+
+8. `<img>`: Incorpora un'immagine nella pagina web.
+
+9. `<div>`: Crea un contenitore generico per raggruppare e organizzare altri elementi HTML.
+
+10. `<span>`: Simile a `<div>`, ma utilizzato per applicare stili o comportamenti a una porzione specifica di testo o contenuto all'interno di una riga.
+
+11. `<ul>`: Definisce un elenco non ordinato.
+
+12. `<ol>`: Definisce un elenco ordinato.
+
+13. `<li>`: Definisce un elemento di lista all'interno di un elenco `<ul>` o `<ol>`.
+
+14. `<table>`: Crea una tabella.
+
+15. `<tr>`: Definisce una riga all'interno di una tabella.
+
+16. `<td>`: Definisce una cella dati all'interno di una riga di tabella.
+
+17. `<form>`: Definisce un modulo per la raccolta di dati dall'utente.
+
+18. `<input>`: Crea un campo di input all'interno di un modulo.
+
+19. `<textarea>`: Crea un'area di testo multi-riga all'interno di un modulo.
+
+20. `<button>`: Crea un pulsante all'interno di un modulo.
+
