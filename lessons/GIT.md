@@ -81,3 +81,18 @@ i utilizzare GitHub Pages per ospitare il tuo sito web personale o la documentaz
   
 
 In sostanza, su GitHub puoi scrivere e condividere una vasta gamma di contenuti, sia che si tratti di codice sorgente, documentazione, issue, wiki o altro ancora. È uno strumento flessibile e potente utilizzato da sviluppatori di tutto il mondo per collaborare e condividere il proprio lavoro.
+
+**git flow**:  è un modello di branching per Git che fornisce una serie di linee guida su come organizzare il workflow di sviluppo di un progetto. È stato sviluppato da Vincent Driessen ed è diventato molto popolare tra gli sviluppatori software.
+
+Ecco una breve spiegazione di come funziona Git Flow:
+
+1. **Branch principale:** Il repository ha due branch principali: `master` e `develop`. Il branch `master` contiene il codice stabile, mentre il branch `develop` è usato per lo sviluppo continuo.
+
+2. **Feature branch:** Quando inizi a lavorare su una nuova funzionalità, crei un branch separato dalla branch `develop` chiamato `feature/nome-della-feature`. Lavori su questo branch finché la nuova funzionalità non è completata.
+
+3. **Release branch:** Una volta che tutte le funzionalità previste per un rilascio sono state completate e testate sulla branch `develop`, si crea un branch di rilascio chiamato `release/nome-del-rilascio` dalla branch `develop`. Questo branch è usato per preparare il rilascio finale, risolvere eventuali bug e aggiornare la documentazione.
+
+4. **Hotfix branch:** Se si verifica un bug critico sul branch `master` e richiede un'azione immediata, viene creato un branch di hotfix chiamato `hotfix/descrizione-del-bug` dalla branch `master`. Una volta risolto il bug, le modifiche vengono propagate sia alla branch `master` che alla branch `develop`.
+
+5. **Merge:** Una volta che una funzionalità è completata su un branch `feature`, viene fuso nella branch `develop`. Quando un rilascio è pronto, il branch di rilascio viene fuso sia nella branch `master` che nella branch `develop`.
+

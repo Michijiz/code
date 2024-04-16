@@ -55,3 +55,34 @@
 
 ### git diff [file]
 `confronta le differenze del file in due diversi momenti` 
+### git reset head-1 --soft
+`annulla un commit mantenendo le modifiche in locale`
+### git remote add origin
+`aggiunge una repository remoto in git ``
+### git branch -m "nome nuovo"
+`rinomina il nome della branch`
+### git checkout "file"
+`annullo modifiche in un file prima di aggiungerlo al commit`
+### git clone --bare "url"
+`per creare uno copia della repository senz
+### git stash
+` stora un cambio temporaneo dell'attuale stato di lavoro`
+### git cherry-pick 
+`applica un commit da un branch all'altro`
+### git merge --squash "nome branch"
+`unire un branch senza creare un commit di merge ` 
+### git log --follow "file"
+mostra lo storico dei commit
+### git config --global credential helper store
+`memorizza le credenziali dell'utente`
+### git branch --contains "commit"
+`otterrai un elenco di tutti i branch che includono il commit specificato. Questo può essere utile per comprendere quali branch sono stati influenzati da un determinato cambiamento nel repository`
+
+### git log --oneline
+`visualizza i commit in una linea≠``
+### git tag "nome tag" "commit"
+`aggiungere tag a un commit ``
+### git blame "file"
+`per vedere chi ha modificato una riga specifica di un file`
+### git reset --hard HEAD
+`riporterà il repository allo stato del commit corrente, scartando tutte le modifiche non commesse nell'area di staging e nel working directory`
