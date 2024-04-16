@@ -32,4 +32,3 @@
 
 8. **Commenti HTML**: È possibile aggiungere commenti nel codice HTML utilizzando `<!-- Il tuo commento qui -->`. I commenti non vengono visualizzati nel browser e sono utili per annotare o disattivare temporaneamente parti di codice.
 
-Questi sono solo alcuni dei concetti fondamentali di HTML. Utilizzando questi elementi, puoi creare pagine web complesse e interattive per una vasta gamma di scopi, dall'informazione alla comunicazione e al commercio elettronico.
