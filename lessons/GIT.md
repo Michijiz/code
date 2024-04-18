@@ -1,6 +1,6 @@
 # GIT
 
-Git è un registro che tiene traccia di tutte le modifiche fatte al codice di un progetto. È come un diario che registra chi ha fatto cosa e quando. È molto utile per i team di programmatori che lavorano insieme su un progetto, perché permette loro di vedere e gestire tutte le modifiche fatte al codice in modo ordinato e efficiente.
+Git è un registro che tiene traccia di tutte le modifiche fatte al codice di un progetto. È come un diario che registra chi ha fatto cosa e quando. È molto utile per i team di programmatori che lavorano insieme su un progetto, perché permette loro di vedere e gestire tutte le modifiche fatte al codice in modo ordinato e efficiente
 
   
 
